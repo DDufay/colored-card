@@ -1,0 +1,16 @@
+@import "Colors";
+
+.color-card {
+    display: flex;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 0 5px 25px 0 rgba(123, 123, 123, 0.15);
+
+    &-content {
+        padding: 20px;
+        max-width: 280px;
+        max-height: 480px;
+        overflow: hidden;
+    }
+}

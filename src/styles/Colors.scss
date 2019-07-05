@@ -1,0 +1,36 @@
+// default color
+$blue-to-pink: linear-gradient(-225deg, #3494E6, #EC6EAD 70%);
+$orange-to-macaroni: linear-gradient(-225deg, #ff7e5f, #feb47b 70%);
+$cosmic-fusion: linear-gradient(-225deg, #ff00cc, #333399 70%);
+$fire-watch: linear-gradient(-225deg, #cb2d3e, #ef473a 70%);
+$deap-sea-space: linear-gradient(-225deg, #2C3E50, #4CA1AF 70%);
+$sweat-morning: linear-gradient(-225deg, #FF5F6D, #FFC371 70%);
+$celestial: linear-gradient(-225deg, #C33764, #1D2671 70%);
+
+.blue-to-pink {
+    background: $blue-to-pink;
+}
+
+.orange-to-macaroni {
+    background: $orange-to-macaroni;
+}
+
+.cosmic-fusion {
+    background: $cosmic-fusion;
+}
+
+.fire-watch {
+    background: $fire-watch;
+}
+
+.deap-sea-space {
+    background: $deap-sea-space;
+}
+
+.sweat-morning {
+    background: $sweat-morning;
+}
+
+.celestial {
+    background: $celestial;
+}
